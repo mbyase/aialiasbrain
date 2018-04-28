@@ -1,6 +1,5 @@
 # coding=utf-8
 # author HerbLee
-from django.conf.urls import url
 
 from account import views
 from django.contrib import admin
